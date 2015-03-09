@@ -1,1 +1,3 @@
 # gitmon
+
+Monitor your git repository on the server, instead of a CI server (like travis-ci). This works better for places when you have firewalls and your CI server cannot reach your machine that has the git repo. Not intended for production use...
